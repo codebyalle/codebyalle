@@ -1,4 +1,4 @@
-## Bem-vinde ao perfil, codebyalle 😁
+## Bem-vinde ao perfil. 😁
   - Sou estudante em desenvolvimento em HTML, CSS, JavaScript.
 
  <div>
